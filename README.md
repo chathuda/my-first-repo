@@ -4,3 +4,5 @@ I am currently attending a GitHub workshop.
 Today I learned about:- Version control - Creating a repository - The edit - commit-push cycle
 
 My GitHub profile: https://github.com/chathuda
+
+Hello this is my new branch **chathuda - Branch**
